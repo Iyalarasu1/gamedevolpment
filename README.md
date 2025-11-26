@@ -51,3 +51,9 @@
 
 
 ## OUTPUT:
+<img width="1587" height="2245" alt="saveetha@gmail com" src="https://github.com/user-attachments/assets/58183688-94bd-4f76-8168-8b477e26c205" />
+
+## RESULT:
+
+Thus to edit an image using an image editing software completed successfully
+
